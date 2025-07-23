@@ -1,12 +1,12 @@
 ---
 layout: default 
-title: Technical Writeups
+title: AI Writeups
 ---
 
 <a href="https://anish7600.github.io/" style="text-decoration: none;">← Back to Home</a>
 
 
-## Technical Writeups
+## AI Writeups
 
 ### 🔐 **Security and Networking**
 
